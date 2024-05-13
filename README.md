@@ -4,7 +4,7 @@
 ## Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me).
 
 <p align="center">
-    <img width="100" src="">
+    <img height="500" width="850" src="Slide1.jpg">
 </p>
 
 
